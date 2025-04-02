@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Baibhab Sahu</h1>
 <h3 align="center">Android Developer | Machine Learning Enthusiast</h3>
 
-- 🔭 Working on **Farm2U** – bridging farmers and buyers with tech.
+- 🔭 Working on **Attendance Tracker** – bridging farmers and buyers with tech.
 - 🌱 Exploring **Jetpack Compose, Room Database, and AI in Android**.
 - 👯 Open to collaborations in **Android development & ML projects**.
 - 💬 Ask me about **Kotlin & AI-powered applications**.
