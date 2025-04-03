@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Baibhab Sahu</h1>
 <h3 align="center">Android Developer | Machine Learning Enthusiast</h3>
 
-- 🔭 Working on **Attendance Tracker** – bridging farmers and buyers with tech.
+- 🔭 Working on **Attendance Tracker** – good UI with better managements
 - 🌱 Exploring **Jetpack Compose, Room Database, and AI in Android**.
 - 👯 Open to collaborations in **Android development & ML projects**.
-- 💬 Ask me about **Kotlin & AI-powered applications**.
+- 💬 Ask me about **Kotlin & Jetpack compose**.
 - 📫 Reach me at **baibhabsahu31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
