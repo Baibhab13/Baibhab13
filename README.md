@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/f7348e42-a737-495f-b125-e62dc9ffcf3d)
 
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Baibhab Sahu</h1><br><h3 align="center">Android Developer | Machine Learning Enthusiast</h3><br><br>- 🔭 Working on **Attendance Tracker** – good UI with better managements<br>- 🌱 Exploring **Jetpack Compose, Room Database, and AI in Android**.<br>- 👯 Open to collaborations in **Android development & ML projects**.<br>- 💬 Ask me about **Kotlin & Jetpack compose**.<br>- 📫 Reach me at **baibhabsahu31@gmail.com**
+<h1 align="center">Hi 👋, I'm Baibhab Sahu</h1><br><h3 align="center">Android Developer | Machine Learning Enthusiast</h3><br><br>- 🔭 Working on **Attendance Tracker** – good UI with better managements<br>- 🌱 Exploring ** Jetpack Compose, Room Database, and AI in Android **.<br>- 👯 Open to collaborations in **Android development & ML projects**.<br>- 💬 Ask me about **Kotlin & Jetpack compose**.<br>- 📫 Reach me at **baibhabsahu31@gmail.com**
 
 
 ## 🌐 Socials:
