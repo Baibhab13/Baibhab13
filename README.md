@@ -1,7 +1,9 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Baibhab Sahu</h1><br><h3 align="center">Android Developer | Machine Learning Enthusiast</h3><br><br>- 🔭 Working on *Farm2U* – simple UI with better managements<br>- 🌱 Exploring * Jetpack Compose, Room Database, and Generative AI*.<br>- 👯 Open to collaborations in *Android development & ML projects*.<br>- 💬 Ask me about *DSA - JAVA*.<br>- 📫 Reach me at *baibhabsahu31@gmail.com*
 
+## Hacktoberfest2025
 
+[![An image of @baibhab13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/baibhab13)](https://holopin.io/@baibhab13)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baibhabsahu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Baibhab07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baibhabsahu31@gmail.com) 
 
