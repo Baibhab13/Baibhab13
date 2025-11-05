@@ -1,6 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=250&section=header&text=Baibhab%20Sahu%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40)
 
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=5000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hey+there!+I'm+Baibhab+👋;)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 
 <h2 style="font-size: 28px;">Android Developer | Machine Learning | Generative AI</h2>
 
