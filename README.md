@@ -67,14 +67,20 @@
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge" />
 </div>
 
-<!-- 📱 Android Development -->
+<!-- 📱 Android Development (Final Version) -->
 <h2 style="font-size: 26px;">📱 Android Development</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300A67E.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Room%20Database-%23FFA000.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Retrofit-%232D8CFF.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coil-%23F6C343.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coroutines-%235D2EFF.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge" />
+
 </div>
+
 
 <!-- 🤖 Machine Learning -->
 <h2 style="font-size: 26px;">🤖 Machine Learning & AI</h2>
@@ -125,28 +131,4 @@
 
 </div>
 
----
-
-<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
-
-  <!-- ✍️ Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" height="150" />
-
-  <!-- 👁️‍🗨️ Visitor Count -->
-  <img src="https://visitcount.itsvg.in/api?id=Baibhab13&label=Profile%20Views&color=00D9FF&icon=5&pretty=true" alt="Visitor Count" height="100" />
-
-</div>
-
----
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!%20💫&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75)
-
-### 👁️‍🗨️ Visitor Count  
-<img src="https://visitcount.itsvg.in/api?id=Baibhab13&label=Profile%20Views&color=00D9FF&icon=5&pretty=true" alt="Visitor Count"/>
-
-</div>
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!%20💫&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75)
-
