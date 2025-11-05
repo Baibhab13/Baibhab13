@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=250&section=header&text=Baibhab%20Sahu%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40)
 
-<h3 align="center">Android Developer | Machine Learning Enthusiast</h3><br><br>- 🔭 Working on *Farm2U* – simple UI with better managements<br>- 🌱 Exploring * Jetpack Compose, Room Database, and Generative AI*.<br>- 👯 Open to collaborations in *Android development & ML projects*.<br>- 💬 Ask me about *DSA - JAVA*.<br>- 📫 Reach me at *baibhabsahu31@gmail.com*
+<h2 align="center">Android Developer | Machine Learning Enthusiast</h3><br><br>- 🔭 Working on *Farm2U* – simple UI with better managements<br>- 🌱 Exploring * Jetpack Compose, Room Database, and Generative AI*.<br>- 👯 Open to collaborations in *Android development & ML projects*.<br>- 💬 Ask me about *DSA - JAVA*.<br>- 📫 Reach me at *baibhabsahu31@gmail.com*
 
 ## Hacktoberfest2025
 
