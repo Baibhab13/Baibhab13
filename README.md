@@ -22,10 +22,37 @@
 
 </div>
 
+## 🌐 Connect With Me
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/baibhabsahu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Baibhab07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baibhabsahu31@gmail.com) 
+<p style="font-size: 18px;">Let's build something amazing together! 💬</p>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+
+  <a href="mailto:baibhabsahu31@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://linkedin.com/in/Baibhab07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://instagram.com/baibhabsahu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://github.com/Baibhab13" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://holopin.io/@baibhab13" target="_blank">
+    <img src="https://img.shields.io/badge/Holopin-00BFA5?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin Badges"/>
+  </a>
+
+</div>
+
+</div>
 
 # 💻 Tech Stack:
 
@@ -100,10 +127,26 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+
+  <!-- ✍️ Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" height="150" />
+
+  <!-- 👁️‍🗨️ Visitor Count -->
+  <img src="https://visitcount.itsvg.in/api?id=Baibhab13&label=Profile%20Views&color=00D9FF&icon=5&pretty=true" alt="Visitor Count" height="100" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Baibhab13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!%20💫&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75)
+
+### 👁️‍🗨️ Visitor Count  
+<img src="https://visitcount.itsvg.in/api?id=Baibhab13&label=Profile%20Views&color=00D9FF&icon=5&pretty=true" alt="Visitor Count"/>
+
+</div>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!%20💫&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75)
+
