@@ -38,14 +38,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://instagram.com/baibhabsahu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
-  <a href="https://holopin.io/@baibhab13" target="_blank">
-    <img src="https://img.shields.io/badge/Holopin-00BFA5?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin Badges"/>
-  </a>
-
 </div>
 
 </div>
