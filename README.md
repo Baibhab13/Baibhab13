@@ -51,58 +51,55 @@ Let's build something amazing together! 💬
 
 </div>
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 25px;">
 
 <!-- 🧠 Programming Languages -->
 <h2 style="font-size: 26px;">🧠 Programming Languages</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge" />
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge" /></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge" /></a>
 </div>
 
-<!-- 📱 Android Development (Final Version) -->
+<!-- 📱 Android Development -->
 <h2 style="font-size: 26px;">📱 Android Development</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-%2300A67E.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Room%20Database-%23FFA000.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Retrofit-%232D8CFF.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coil-%23F6C343.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coroutines-%235D2EFF.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge" />
-
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge" /></a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://img.shields.io/badge/Jetpack%20Compose-%2300A67E.svg?style=for-the-badge" /></a>
+  <a href="https://developer.android.com/training/data-storage/room" target="_blank"><img src="https://img.shields.io/badge/Room%20Database-%23FFA000.svg?style=for-the-badge" /></a>
+  <a href="https://square.github.io/retrofit/" target="_blank"><img src="https://img.shields.io/badge/Retrofit-%232D8CFF.svg?style=for-the-badge" /></a>
+  <a href="https://coil-kt.github.io/coil/" target="_blank"><img src="https://img.shields.io/badge/Coil-%23F6C343.svg?style=for-the-badge" /></a>
+  <a href="https://kotlinlang.org/docs/coroutines-overview.html" target="_blank"><img src="https://img.shields.io/badge/Coroutines-%235D2EFF.svg?style=for-the-badge" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge" /></a>
 </div>
 
-
-<!-- 🤖 Machine Learning -->
+<!-- 🤖 Machine Learning & AI -->
 <h2 style="font-size: 26px;">🤖 Machine Learning & AI</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-%230A0A0A.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Langchain-%23FF6F00.svg?style=for-the-badge" />
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge" /></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%230A0A0A.svg?style=for-the-badge" /></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge" /></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge" /></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-%23FF6F00.svg?style=for-the-badge" /></a>
 </div>
 
 <!-- 🧰 Tools & Design -->
 <h2 style="font-size: 26px;">🧰 Tools & Design</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge" /></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge" /></a>
 </div>
 
 </div>
