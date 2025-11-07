@@ -40,10 +40,6 @@ Let's build something amazing together! 💬
     <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn" />
   </a>
 
-  <a href="https://github.com/Baibhab13" target="_blank" title="Visit my GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
-  </a>
-
   <a href="https://instagram.com/baibhabsahu" target="_blank" title="Follow me on Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" width="55" alt="Instagram" />
   </a>
