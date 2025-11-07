@@ -24,21 +24,34 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
 
-<p style="font-size: 18px;">Let's build something amazing together! 💬</p>
+<p style="font-size: 18px; font-weight: 500; margin-bottom: 25px;">
+Let's build something amazing together! 💬  
+</p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 35px;">
 
-  <a href="mailto:baibhabsahu31@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:baibhabsahu31@gmail.com" target="_blank" title="Send me an Email">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail" />
   </a>
 
-  <a href="https://linkedin.com/in/baibhabsahu07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/baibhabsahu07" target="_blank" title="Connect on LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/Baibhab13" target="_blank" title="Visit my GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
+  </a>
+
+  <a href="https://instagram.com/baibhabsahu" target="_blank" title="Follow me on Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" width="55" alt="Instagram" />
   </a>
 
 </div>
+
+</div>
+
 
 </div>
 
