@@ -90,6 +90,7 @@ Let's build something amazing together! 💬
   <img src="https://img.shields.io/badge/Matplotlib-%230A0A0A.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Langchain-%23FF6F00.svg?style=for-the-badge" />
 </div>
 
 <!-- 🧰 Tools & Design -->
