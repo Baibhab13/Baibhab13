@@ -13,7 +13,7 @@
 <br>
 
 <p style="font-size: 28px;">
-🔭 Working on <i>Farm2U</i> – simple UI with better managements<br>
+🔭 Working on <i>Monetrix</i> - Finance manager<br>
 🌱 Exploring <i>Jetpack Compose, Room Database, and Generative AI</i><br>
 👯 Open to collaborations in <i>Android development & ML projects</i><br>
 💬 Ask me about <i>DSA - JAVA</i><br>
