@@ -15,7 +15,7 @@
 <p style="font-size: 28px;">
 🔭 Working on <i>Monetrix</i> - Finance manager<br>
 🌱 Exploring <i>Jetpack Compose, Room Database, and Generative AI</i><br>
-👯 Open to collaborations in <i>Android development & ML projects</i><br>
+👯 Open to collaborations in <i>Android development & ML projects & GEN AI</i><br>
 💬 Ask me about <i>DSA - JAVA</i><br>
 📫 Reach me at <b>baibhabsahu31@gmail.com</b>
 </p>
