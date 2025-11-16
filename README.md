@@ -85,7 +85,6 @@ Let's build something amazing together! 💬
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge" /></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%230A0A0A.svg?style=for-the-badge" /></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge" /></a>
-  <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge" /></a>
   <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-%23FF6F00.svg?style=for-the-badge" /></a>
 </div>
 
