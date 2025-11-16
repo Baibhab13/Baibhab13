@@ -17,7 +17,6 @@
 🌱 Exploring <i>Jetpack Compose, Room Database, and Generative AI</i><br>
 👯 Open to collaborations in <i>Android development & ML projects & GEN AI</i><br>
 💬 Ask me about <i>DSA - JAVA</i><br>
-📫 Reach me at <b>baibhabsahu31@gmail.com</b>
 </p>
 
 </div>
