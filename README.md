@@ -6,6 +6,9 @@
 
 </div>
 
+
+</div>
+
 <div align="center">
 
 <h2 style="font-size: 28px;">Android Developer | Machine Learning | Generative AI</h2>
@@ -18,6 +21,16 @@
 👯 Open to collaborations in <i>Android development & ML projects & GEN AI</i><br>
 💬 Ask me about <i>DSA - JAVA</i><br>
 </p>
+
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=code-name-healer">
+    <img 
+      src="https://komarev.com/ghpvc/?username=code-name-healer&label=Profile%20Views&color=00d9ff&style=flat-square" 
+      alt="Profile Views"
+      style="margin-top: 10px; margin-bottom: -10px;"
+    />
+  </a>
+</div>
 
 </div>
 
