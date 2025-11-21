@@ -22,15 +22,15 @@
 💬 Ask me about <i>DSA - JAVA</i><br>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://komarev.com/ghpvc/?username=code-name-healer">
     <img 
-      src="https://komarev.com/ghpvc/?username=code-name-healer&label=Profile%20Views&color=00d9ff&style=flat-square" 
+      src="https://komarev.com/ghpvc/?username=Baibhab13&label=Profile%20Views&color=00d9ff&style=flat-square" 
       alt="Profile Views"
       style="margin-top: 10px; margin-bottom: -10px;"
     />
   </a>
-</div>
+</div> -->
 
 </div>
 
