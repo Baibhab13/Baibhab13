@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<h2 style="font-size: 28px;">Android Developer | Machine Learning | Generative AI</h2>
+<h2 style="font-size: 28px;">Android Developer | Machine Learning | GenAI</h2>
 
 <br>
 
