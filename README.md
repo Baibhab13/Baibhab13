@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=250&section=header&text=Baibhab%20Sahu%20✨️&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40)ppp
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=250&section=header&text=Baibhab%20Sahu%20✨️&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40)
 
 <div align="center">
   
