@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=250&section=header&text=Baibhab%20Sahu%20😎&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Baibhab%20Sahu%20😎&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
 <div align="center">
   
@@ -137,4 +137,4 @@ Let's build something amazing together! 💬
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!%20💫&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!%20💫&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=75)
