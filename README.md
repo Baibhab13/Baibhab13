@@ -17,7 +17,7 @@
 <br>
 
 <p style="font-size: 28px;">
-🔭 Working on <i>Sem Preparation</i> - Maintaining 8.7 CGPA<br>
+🔭 Working on <i>Sem Preparation</i> - Maintaining 8.7 CGPA - Last exam<br>
 🌱 Exploring <i>Jetpack Compose, Room Database, and Generative AI</i><br>
 👯 Open to collaborations in <i>Android development & ML projects & GEN AI</i><br>
 💬 Ask me about <i>DSA - JAVA</i><br>
