@@ -125,9 +125,8 @@ Let's build something amazing together! 💬
 <div align="center">
 
 <!-- Public GitHub stats (mirror) -->
-<img height="165em"
-     src="https://readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Baibhab13&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"
-     alt="GitHub Stats" />
+<img height="165em" 
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Baibhab13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
 
 <!-- Contribution streak -->
 <img height="165em"
