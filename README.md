@@ -124,11 +124,19 @@ Let's build something amazing together! 💬
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Baibhab13&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+<!-- Public GitHub stats (mirror) -->
+<img height="165em"
+     src="https://readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Baibhab13&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"
+     alt="GitHub Stats" />
 
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Baibhab13&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<!-- Contribution streak -->
+<img height="165em"
+     src="https://streak-stats.demolab.com?user=Baibhab13&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+     alt="GitHub Streak" />
 
 </div>
+
+
 
 ## 📈 **Contribution Graph**
 
