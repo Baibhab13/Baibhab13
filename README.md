@@ -17,7 +17,7 @@
 <br>
 
 <p style="font-size: 28px;">
-🔭 Working on <i>Personal Projects</i> Soon to be done public<br>
+🔭 Working on <i>Linux system</i>ownership and permission<br>
 🌱 Exploring <i>Jetpack Compose, Room Database, and Generative AI</i><br>
 👯 Open to collaborations in <i>Android development & ML projects & GEN AI</i><br>
 💬 Ask me about <i>DSA - JAVA</i><br>
