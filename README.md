@@ -18,7 +18,7 @@
 
 <p style="font-size: 28px;">
 🔭 Working on <i>Linux system</i>ownership and permission<br>
-🌱 Exploring <i>Jetpack Compose, Room Database, and Generative AI</i><br>
+🌱 Exploring <i>Jetpack Compose, Room Database, and Generative AI, Javascript</i><br>
 👯 Open to collaborations in <i>Android development & ML projects & GEN AI</i><br>
 💬 Ask me about <i>DSA - JAVA</i><br>
 </p>
